@@ -61,7 +61,11 @@ def calculate_utilization(appointments, capacity):
 
 monthly_utilization = calculate_utilization(total_appointments, monthly_capacity)
 ```
-![image](https://github.com/user-attachments/assets/04824017-021b-4744-a54c-32b051a60b9a)
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/9509339b-9cc9-451d-9b65-b2d3abf8408d">
+
+
+
+
 
 ## Healthcare Professional Types
 
